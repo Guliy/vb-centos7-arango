@@ -35,6 +35,7 @@ $ vagrant ssh
 ```shell
 $ sudo /etc/init.d/arangodb start
 ```
+The web interface can be accessed via the URL http://localhost:8529/ or http://10.10.33.10:8529 on host machine
 
 **Starting Arango shell**
 ```shell
@@ -46,7 +47,7 @@ $ arangosh
 $ sudo /etc/init.d/arangodb stop
 ```
 
-**HaltVM**
+**Halt VM**
 ```shell
 $ vagrant halt
 ```
