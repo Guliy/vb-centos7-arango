@@ -5,6 +5,7 @@ Vagrant box centos7 with preinstalled arangodb
 **First of all you need:**
 
 **VirtualBox**  [dowload from this] **(http://www.virtualbox.org/wiki/Downloads)** and install.
+
 **Vagrant** [dowload from this]**(http://downloads.vagrantup.com/)**  and install.
 
 **Next step:**
